@@ -1,0 +1,56 @@
+[
+{
+  "model": "webapp.tasks",
+  "pk": 1,
+  "fields": {
+    "description": "Саламчик",
+    "status": "new",
+    "date_done": "2024-04-30"
+  }
+},
+{
+  "model": "webapp.tasks",
+  "pk": 2,
+  "fields": {
+    "description": "саламчик Такой саламичк что саламчик",
+    "status": "new",
+    "date_done": "2024-04-30"
+  }
+},
+{
+  "model": "webapp.tasks",
+  "pk": 3,
+  "fields": {
+    "description": "wqert",
+    "status": "in_progress",
+    "date_done": "2024-04-30"
+  }
+},
+{
+  "model": "webapp.tasks",
+  "pk": 4,
+  "fields": {
+    "description": "ergtyu",
+    "status": "done",
+    "date_done": null
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$QYnyoLpKWFK1FfK7q0Y7WC$PhuYwGi3y+SwD4n20GLyaecHs+Xnwq4Pi8VGvgdPtF0=",
+    "last_login": "2024-04-30T13:11:01.538Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-04-30T12:48:30.822Z",
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]
